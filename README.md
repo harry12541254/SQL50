@@ -20,7 +20,7 @@ SQL50-Challenge/
 │   └── data/
 │       └── sample_data.sql
 └── LICENSE
-
+```
 - `solutions/`：每道題目的 SQL 解答。
 - `explanations/`：每道題目的解答說明和思路。
 - `resources/`：資料庫 schema 和樣本數據，用於重現解答環境。
