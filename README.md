@@ -4,6 +4,7 @@
 這個倉庫記錄了我挑戰 [SQL50]的過程。
 
 ## 目錄結構
+```bash
 SQL50-Challenge/
 ├── README.md
 ├── solutions/
