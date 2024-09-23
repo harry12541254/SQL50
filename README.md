@@ -4,21 +4,22 @@
 這個倉庫記錄了我挑戰 [SQL50]的過程。
 
 ## 目錄結構
-  SQL50-Challenge/
-  ├── README.md
-  ├── solutions/
-  │   ├── 1_Solution.sql
-  │   ├── 2_Solution.sql
-  │   └── ...
-  ├── explanations/
-  │   ├── 1_Explanation.md
-  │   ├── 2_Explanation.md
-  │   └── ...
-  ├── resources/
-  │   ├── schema.sql
-  │   └── data/
-  │       └── sample_data.sql
-  └── LICENSE
+SQL50-Challenge/
+├── README.md
+├── solutions/
+│   ├── 1_Solution.sql
+│   ├── 2_Solution.sql
+│   └── ...
+├── explanations/
+│   ├── 1_Explanation.md
+│   ├── 2_Explanation.md
+│   └── ...
+├── resources/
+│   ├── schema.sql
+│   └── data/
+│       └── sample_data.sql
+└── LICENSE
+
 - `solutions/`：每道題目的 SQL 解答。
 - `explanations/`：每道題目的解答說明和思路。
 - `resources/`：資料庫 schema 和樣本數據，用於重現解答環境。
